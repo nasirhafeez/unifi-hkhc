@@ -81,7 +81,7 @@ header("Location: thankyou.htm");
 <html>
 <head>
   <meta charset="utf-8">
-  <title>ZigsaWiFi</title>
+  <title>Latitude 38</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <link rel="stylesheet" href="bulma.min.css" />
   <script defer src="fontawesome-free-5.3.1-web\js\all.js"></script>
@@ -97,9 +97,9 @@ header("Location: thankyou.htm");
     </figure>
 
 		<div id="handle" class="content is-size-6">Please wait, you are being </div>
-		<div id="devices" class="content is-size-6">authorized on ZigsaWiFi</div>
+		<div id="devices" class="content is-size-6">authorized on WiFi</div>
 
-    <div id="powered_handle" class="content is-size-6">Powered by Zigsa</div>
+    <div id="powered_handle" class="content is-size-6">Latitude 38 Vacation Rentals</div>
     <div id="copyright" class="content is-size-6">(C) Copyright 2020</div>
 
   </div>

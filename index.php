@@ -50,7 +50,7 @@ if ($result->num_rows >= 1) {
 
 <head>
   <meta charset="utf-8">
-  <title>ZigsaWiFi</title>
+  <title>Latitude 38</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <link rel="stylesheet" href="bulma.min.css" />
   <script defer src="vendor\fortawesome\font-awesome\js\all.js"></script>
@@ -105,7 +105,7 @@ if ($result->num_rows >= 1) {
                         
     </form>
 
-    <div id="powered" class="content is-size-6">Powered by Zigsa</div>
+    <div id="powered" class="content is-size-6">Latitude 38 Vacation Rentals</div>
     <div id="copyright" class="content is-size-6">(C) Copyright 2020</div>
 
   </div>

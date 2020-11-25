@@ -10,7 +10,7 @@ Printing a welcome message for the user
 <html>
 <head>
   <meta charset="utf-8">
-  <title>ZigsaWiFi</title>
+  <title>Latitude 38</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <link rel="stylesheet" href="bulma.min.css" />
   <script defer src="vendor\fortawesome\font-awesome\js\all.js"></script>
@@ -30,7 +30,7 @@ Printing a welcome message for the user
 		<div id="devices" class="content is-size-6">You'll be automatically authorized</div>
 		<div id="devices" class="content is-size-6">on the network in a few moments</div>
     
-    <div id="powered_welcome" class="content is-size-6">Powered by Zigsa</div>
+    <div id="powered_welcome" class="content is-size-6">Latitude 38 Vacation Rentals</div>
     <div id="copyright" class="content is-size-6">(C) Copyright 2020</div>
 
 	</div>
