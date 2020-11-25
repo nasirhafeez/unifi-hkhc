@@ -64,25 +64,25 @@ body {
 #powered {
     text-align: center;
     margin: 0;
-    margin-top: 30px;
+    margin-top: 80px;
 }
 
-#powered_handle {
+#powered_connect {
     text-align: center;
     margin: 0;
-    margin-top: 220px;
+    margin-top: 280px;
 }
 
 #powered_thanks {
     text-align: center;
     margin: 0;
-    margin-top: 220px;
+    margin-top: 260px;
 }
 
 #powered_welcome {
     text-align: center;
     margin: 0;
-    margin-top: 210px;
+    margin-top: 260px;
 }
 
 #copyright {
@@ -118,14 +118,14 @@ body {
     #powered {
         margin-top: 80px;
     }
-    #powered_handle {
+    #powered_connect {
         margin-top: 275px;
     }
     #powered_thanks {
-        margin-top: 275px;
+        margin-top: 270px;
     }
     #powered_welcome {
-        margin-top: 270px;
+        margin-top: 260px;
     }
 }
 
@@ -135,9 +135,9 @@ body {
 and (min-device-width : 768px) 
 and (max-device-width : 1024px)  {
     #powered {
-        margin-top: 220px;
+        margin-top: 225px;
     }
-    #powered_handle {
+    #powered_connect {
         margin-top: 420px;
     }
     #powered_thanks {
