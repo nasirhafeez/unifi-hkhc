@@ -45,6 +45,7 @@ if ($result->num_rows >= 1) {
   mysqli_close($con);
 }
 ?>
+
 <!doctype html>
 <html>
 
@@ -66,7 +67,11 @@ if ($result->num_rows >= 1) {
       <img src="logo.png">
     </figure>
 
+    <br>
+
     <div id="login" class="content is-size-4 has-text-weight-bold">Login for Free Wi-Fi</div>
+
+    <br>
 
     <form class="form_login" method="post" action="connect.php">
       

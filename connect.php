@@ -77,6 +77,7 @@ mysqli_close($con);
 header("Location: thankyou.htm");
 
 ?>
+
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -96,10 +97,13 @@ header("Location: thankyou.htm");
         <img src="logo.png">
     </figure>
 
+    <br>
+    <br>
+
 		<div id="handle" class="content is-size-6">Please wait, you are being </div>
 		<div id="devices" class="content is-size-6">authorized on WiFi</div>
 
-    <div id="powered_handle" class="content is-size-6">Latitude 38 Vacation Rentals</div>
+    <div id="powered_connect" class="content is-size-6">Latitude 38 Vacation Rentals</div>
     <div id="copyright" class="content is-size-6">(C) Copyright 2020</div>
 
   </div>
