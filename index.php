@@ -111,7 +111,7 @@ if ($result->num_rows >= 1) {
     </form>
 
     <div id="powered" class="content is-size-6">Latitude 38 Vacation Rentals</div>
-    <div id="copyright" class="content is-size-6">(C) Copyright 2020</div>
+    <div id="copyright" class="content is-size-6">(C) Copyright 2021</div>
 
   </div>
 

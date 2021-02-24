@@ -104,7 +104,7 @@ header("Location: thankyou.htm");
 		<div id="devices" class="content is-size-6">authorized on WiFi</div>
 
     <div id="powered_connect" class="content is-size-6">Latitude 38 Vacation Rentals</div>
-    <div id="copyright" class="content is-size-6">(C) Copyright 2020</div>
+    <div id="copyright" class="content is-size-6">(C) Copyright 2021</div>
 
   </div>
 </body>

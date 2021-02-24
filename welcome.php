@@ -34,7 +34,7 @@ Printing a welcome message for the user
 		<div id="devices" class="content is-size-6">on the network in a few moments</div>
     
     <div id="powered_welcome" class="content is-size-6">Latitude 38 Vacation Rentals</div>
-    <div id="copyright" class="content is-size-6">(C) Copyright 2020</div>
+    <div id="copyright" class="content is-size-6">(C) Copyright 2021</div>
 
 	</div>
 </body>
