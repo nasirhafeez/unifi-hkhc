@@ -20,8 +20,7 @@ body {
 }
 
 #logo {
-    padding-top: 30px;
-    max-width: 40%;
+    padding-top: 3px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -33,21 +32,9 @@ body {
     align-items: center;
 }
 
-#login {
-    text-align: center;
-    margin-top: 10px;
-    margin-bottom: 5px;
-}
-
 #devices {
     text-align: center;
     margin: 0;
-}
-
-#handle {
-    text-align: center;
-    margin: 0;
-    margin-top: 10px;
 }
 
 #thanks {
@@ -56,33 +43,10 @@ body {
     margin-top: 15px;
 }
 
-#customers {
-    text-align: center;
-    margin: 0;
-}
-
-#powered {
-    text-align: center;
-    margin: 0;
-    margin-top: 80px;
-}
-
-#powered_connect {
-    text-align: center;
-    margin: 0;
-    margin-top: 280px;
-}
-
 #powered_thanks {
     text-align: center;
     margin: 0;
-    margin-top: 260px;
-}
-
-#powered_welcome {
-    text-align: center;
-    margin: 0;
-    margin-top: 260px;
+    margin-top: 350px;
 }
 
 #copyright {
@@ -90,63 +54,32 @@ body {
     margin: 0;
 } 
 
-#gap {
-    margin-top: 5px;
-}
-
-.centered_elements {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    align-items: center;
-}
-
 /* Media Query for Desktops */
 
 @media only screen and (min-width: 768px) {
     html {
-        overflow: hidden;
+
     }
     .bg {
         position: absolute;
         background-size: 100% 100%;
     }
     #logo {
-        padding-top: 50px;
-        max-width: 10%;
-    }
-    #powered {
-        margin-top: 80px;
-    }
-    #powered_connect {
-        margin-top: 275px;
+        max-width: 25%;
     }
     #powered_thanks {
-        margin-top: 270px;
+        margin-top: 350px;
     }
-    #powered_welcome {
-        margin-top: 260px;
-    }
-}
 
 /* Media Query for iPads */
 
 @media only screen 
 and (min-device-width : 768px) 
 and (max-device-width : 1024px)  {
-    #powered {
-        margin-top: 225px;
-    }
-    #powered_connect {
-        margin-top: 420px;
-    }
     #powered_thanks {
-        margin-top: 420px;
-    }
-    #powered_welcome {
-        margin-top: 410px;
+        margin-top: 650px;
     }
     #logo {
-        max-width: 20%;
+        max-width: 60%;
     }
 }

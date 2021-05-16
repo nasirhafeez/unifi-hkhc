@@ -34,13 +34,15 @@ $_SESSION["ap"] = $_GET["ap"];
       <img src="logo.png">
     </figure>
 
-  </div>
+    <br>
 
-  <form method="post" action="connect.php">
-    <div id="access_wifi" class="control">
-      <button id="button_font" class="button is-danger">Accept & Continue</button>
+  <form id="form_login" method="post" action="connect.php">
+    <div class="control has-text-centered">
+      <button class="button is-danger">Accept & Continue</button>
     </div>
   </form>
+
+  </div>
 
 </body>
 </html>
