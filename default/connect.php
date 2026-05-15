@@ -1,21 +1,16 @@
 <?php
-session_start();
 
-include 'parameters.php';
+require 'header.php';
 
-$mac=$_SESSION["mac"];
-$ap=$_SESSION["ap"];
-
-require __DIR__ . '/vendor/autoload.php';
-
-$dotenv = Dotenv\Dotenv::createImmutable(__DIR__ . "/../");
-$dotenv->load();
+$ap = $_SESSION["ap"];
+$mac = $_SESSION["id"];
 
 $controlleruser = $_SERVER['CONTROLLER_USER'];
 $controllerpassword = $_SERVER['CONTROLLER_PASSWORD'];
 $controllerurl = $_SERVER['CONTROLLER_URL'];
 $controllerversion = $_SERVER['CONTROLLER_VERSION'];
 $duration = $_SERVER['DURATION'];
+$site_id = $_SERVER['SITE_ID'];
 
 $debug = false;
 
